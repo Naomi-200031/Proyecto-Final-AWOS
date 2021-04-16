@@ -17,3 +17,4 @@ let categoriaSchema = new Schema({
 module.exports = mongoose.model('Categoria', categoriaSchema)
 
 /*Hola Mi nombre es Naomi*/
+/*Mi nombre es Karla*/
